@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Jinhyuk Jang</h1>
 
 <p align="center">
-  👨‍💻 EE undergrad · Learning C / C++ / Python
+  👨‍💻 EE undergrad · Learning C / C++ / Python<br>
   🛠️ Passionate about Robotics, Embedded Systems and System-level Programming
 </p>
 
