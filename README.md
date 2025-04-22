@@ -11,7 +11,7 @@
 
 - 📚 Electrical Engineering undergraduate at [PSICK University](https://www.youtube.com/channel/UCGX5sP4ehBkihHwt5bs5wvg)
 - 🤖 Passionate about autonomous robots, and smart mobility
-- 
+  
 ---
 
 ### 📌 Featured Projects
