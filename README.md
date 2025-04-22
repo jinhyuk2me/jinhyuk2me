@@ -18,10 +18,11 @@
 
 | 프로젝트 | 설명 |
 |----------|------|
-| [`pyqt-calculator`](https://github.com/jinhyuk2me/pyqt-calculator) | PyQt6로 만든 괄호 포함 계산기 – 수식 파싱, 후위 표기법, 에러 처리까지 완성 |
-| [`arduino-elevator`](https://github.com/jinhyuk2me/arduino-elevator) | Arduino 기반 다층 엘리베이터 제어 시뮬레이터 – LED, 버튼, 상태관리 |
-| [`eda-ml-bikecast`](https://github.com/jinhyuk2me/eda-ml-bikecast) | 따릉이 수요 예측 – EDA, ML, 시각화 기반 분석 프로젝트 |
-| [`portfolio-eda`](https://github.com/jinhyuk2me/portfolio-eda) | 다양한 데이터 분석 과제 모음 |
+| [`eda-ml-bikecast`](https://github.com/jinhyuk2me/eda-ml-bikecast) | 🚴‍♂️ Led the team as project manager – handled EDA, ML modeling, and full pipeline for Seoul’s bike-sharing demand forecasting |
+| [`pyqt-calculator`](https://github.com/jinhyuk2me/pyqt-calculator) | 🧮 Developed a PyQt6 calculator with full support for parentheses, operator precedence, and postfix evaluation |
+| [`arduino-elevator`](https://github.com/jinhyuk2me/arduino-elevator) | 🛗 Simulated a multi-floor elevator system using Arduino – LED feedback, state handling, and control logic |
+| [`portfolio-eda`](https://github.com/jinhyuk2me/portfolio-eda) | 📊 Compiled structured EDA case studies – focused on real-world datasets and visualization-driven insights |
+
 
 ---
 
