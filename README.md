@@ -17,7 +17,7 @@
 
 | 프로젝트 | 설명 |
 |----------|------|
-| [`eda-ml-bikecast`](https://github.com/jinhyuk2me/eda-ml-bikecast) | 🚴‍♂️ Led the team as project manager – handled EDA, ML modeling, and full pipeline for Seoul’s bike-sharing demand forecasting |
+| [`eda-bikecast`](https://github.com/jinhyuk2me/eda-bikecast) | 🚴‍♂️ Led the team as project manager – handled EDA, ML modeling, and full pipeline for Seoul’s bike-sharing demand forecasting |
 | [`pyqt-calculator`](https://github.com/jinhyuk2me/pyqt-calculator) | 🧮 Developed a PyQt6 calculator with full support for parentheses, operator precedence, and postfix evaluation |
 | [`arduino-elevator`](https://github.com/jinhyuk2me/arduino-elevator) | 🛗 Simulated a multi-floor elevator system using Arduino – LED feedback, state handling, and control logic |
 | [`portfolio-eda`](https://github.com/jinhyuk2me/portfolio-eda) | 📊 Compiled structured EDA case studies – focused on real-world datasets and visualization-driven insights |
