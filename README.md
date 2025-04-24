@@ -2,7 +2,7 @@
 
 <p align="center">
   👨‍💻 EE undergrad · Learning C / C++ / Python<br>
-  🛠️ Passionate about Robotics and Embedded Systems
+  🛠️ Passionate about Robotics, Embedded Systems and System-level Programming
 </p>
 
 ---
