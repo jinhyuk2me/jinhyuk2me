@@ -2,9 +2,5 @@
 
 <p align="center">
   👨‍💻 EE undergrad · Learning C / C++ / Python<br>
-  🛠️ Passionate about Robotics, Embedded Systems and System-level Programming<br>
-  📫 jinhyuk2ya@gmail.com  
-
+  🛠️ Passionate about Robotics and System-level Programming<br>
 </p>
-
-<p align="center">Thanks for visiting! 🙌</p>
