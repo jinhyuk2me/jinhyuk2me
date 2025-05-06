@@ -7,12 +7,4 @@
 
 </p>
 
----
-
-### 🚀 About Me
-
-- 📚 Electrical Engineering undergraduate at [PSICK University](https://www.youtube.com/channel/UCGX5sP4ehBkihHwt5bs5wvg)
-  
----
-
 <p align="center">Thanks for visiting! 🙌</p>
