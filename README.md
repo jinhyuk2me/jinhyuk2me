@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=007ACC&text=Jinhyuk%20Jang&height=160&fontSize=80&desc=Robotics%20Software%20Engineer&descAlignY=90&descAlign=50&animation=fadeIn"/>
-</p>
-
-<!-- 소개 -->
-## 👋 소개
+<!-- About -->
+## 👋 About Me
 - BS in KAIST Electrical Engineering
 - Robotics · SLAM · CV · ROS2
 
 ---
 
-<!-- 기술 스택 -->
-## 🚀 기술 스택
+<!-- Tech Stack -->
+## 🚀 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,19 +15,18 @@
   <img src="https://img.shields.io/badge/SLAM-4CAF50?style=for-the-badge"/>
 </p>
 
-
 ---
 
-<!-- 활동 통계 -->
-## 📊 깃허브 통계
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinhyuk2me&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyuk2me&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jinhyuk2me&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyuk2me&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<!-- 연락 -->
-## 📫 연락처
+<!-- Contact -->
+## 📫 Contact
 - GitHub: [jinhyuk2me](https://github.com/jinhyuk2me)
 - Email: jinhyuk2ya@gmail.com
