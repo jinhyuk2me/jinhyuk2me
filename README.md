@@ -1,4 +1,4 @@
 <p align="center">
-  🎓 Electrical & Electronics Engineering undergrad<br>
-  🛠️ Passionate about Robot Software Development<br>
+  🎓 KAIST EE <br>
+  👨‍💻 ROS2 · Python/C++ · SLAM · CV <br>
 </p>
