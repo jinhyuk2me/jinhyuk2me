@@ -16,7 +16,6 @@
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jinhyuk2me&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyuk2me&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
