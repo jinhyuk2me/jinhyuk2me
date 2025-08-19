@@ -18,7 +18,7 @@
 
 ### 🏨 ROOMIE | [GitHub](https://github.com/jinhyuk2me/Roomie) | [Demo Videos](https://www.youtube.com/playlist?list=PLeVDEKHes6sHO5c1vp_Hu00HwNrdS69pk)
 - 호텔 실내 배송 및 안내 자율주행 로봇 (엘리베이터 탑승 지원)  
-- 역할: 프로젝트 기획/총괄 · 시스템 설계 · 비전 AI 모델 제작 · ROS2 × PyQt GUI 구현  
+- 역할: 프로젝트 기획/총괄 · 시스템 설계 · 비전 AI 모듈 제작 · ROS2 × PyQt GUI 구현  
 - Tech: ROS2, PyQt6, YOLOv8, CNN, DeepSORT, EasyOCR, OpenCV  
 
 ---
