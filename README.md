@@ -20,14 +20,13 @@
 
 ---
 
-## 🛠 Projects
+## 🛠 Main Projects
 
 ### 🏨 **ROOMIE** | [🔗 GitHub](https://github.com/jinhyuk2me/Roomie) | [🎥 Demo Videos](https://www.youtube.com/playlist?list=PLeVDEKHes6sHO5c1vp_Hu00HwNrdS69pk)
 - 로봇 매니퓰레이터를 이용해 엘리베이터 탑승이 가능한 호텔 실내 배송 및 안내 자율주행 로봇
 - 역할
   - 프로젝트 기획 및 총괄 (팀장)
-  - 시스템 아키텍처 및 ROS2 패키지 구조 설계
-  - 시스템 시나리오 및 FSM 설계
+  - 시스템 설계 총괄
   - 비전 인식 딥러닝 AI 모델 제작 및 비전 서비스 구현
   - ROS2 × PyQt 기반 ROBOT GUI 구현
   
@@ -44,7 +43,7 @@
 ### 🚲 **Bikecast** | [🔗 GitHub](https://github.com/jinhyuk2me/Bikecast)
 - 서울시 공공자전거 수요 예측 및 분석
 - 역할
-  - 프로젝트 기획 및 총괄
+  - 프로젝트 기획 및 총괄 (팀장)
   - DB 설계, 구축, 관리
   - 실시간 수요 예측 시스템 개발 (SR_01)
   - 설치 위치 추천 시스템 개발 (SR_02)
