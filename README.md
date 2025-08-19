@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Main Projects
+## 💡 Main Projects
 
 ### 🏨 **ROOMIE** | [🔗 GitHub](https://github.com/jinhyuk2me/Roomie) | [🎥 Demo Videos](https://www.youtube.com/playlist?list=PLeVDEKHes6sHO5c1vp_Hu00HwNrdS69pk)
 - 로봇 매니퓰레이터를 이용해 엘리베이터 탑승이 가능한 호텔 실내 배송 및 안내 자율주행 로봇
