@@ -1,7 +1,7 @@
 <!-- About -->
 ## 👋 About Me
 - 🎓 BS in KAIST Electrical Engineering
-- 👨‍💻 Robotics · SLAM · CV · ROS2
+- 👨‍💻 **Technical Focus** : Robotics, Autonomous Driving, Spatial AI, Embedded SW
 
 ---
 
