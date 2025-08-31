@@ -25,4 +25,4 @@
 ## 📫 Contact
 - 🌐 LinkedIn : [linkedin.com/in/jinhyuk2me](https://www.linkedin.com/in/jinhyuk2me)
 - 📧 Email : [jinhyuk2me@gmail.com](mailto:jinhyuk2me@gmail.com)  
-- 🎥 YouTube : [@motivated-robot-engineer](https://www.youtube.com/@motivated-robot-engineer)  
+- 🎥 YouTube : [@motivated-robot-engineer](https://www.youtube.com/@i-like-robot-sw)  
