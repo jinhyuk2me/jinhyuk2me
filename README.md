@@ -3,7 +3,7 @@
 
 ### 🎓 **Education**
 - **KAIST** - Department of Electrical Engineering (Mar. 2018 - Feb. 2025)
-- **Addinedu** - ROS2 & Autonomous Driving Robot Developer Training Program, 9th (2025.02 - 2025.08)
+- **Addinedu** - ROS2 & Autonomous Driving Robot Developer Training Program, 9th (Feb. 2025 - Aug. 2025)
     
 ### 👨‍💻 **Focus Areas**
 - Robotics
