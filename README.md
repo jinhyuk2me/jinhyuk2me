@@ -23,6 +23,6 @@
 ---
 
 ## 📫 Contact
-- 🌐 링크드인: [linkedin.com/in/jinhyuk2me](https://www.linkedin.com/in/jinhyuk2me)
-- 📧 이메일: [jinhyuk2me@gmail.com](mailto:jinhyuk2me@gmail.com)  
-- 🎥 유튜브: [@motivated-robot-engineer](https://www.youtube.com/@motivated-robot-engineer)  
+- 🌐 LinkedIn : [linkedin.com/in/jinhyuk2me](https://www.linkedin.com/in/jinhyuk2me)
+- 📧 Email : [jinhyuk2me@gmail.com](mailto:jinhyuk2me@gmail.com)  
+- 🎥 YouTube : [@motivated-robot-engineer](https://www.youtube.com/@motivated-robot-engineer)  
