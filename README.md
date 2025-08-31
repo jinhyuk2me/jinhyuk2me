@@ -2,7 +2,7 @@
 ## 👋 About Me
 
 ### 🎓 **Education**
-- **KAIST** - Department of Electrical Engineering (Mar. 2018 - Feb. 2025)
+- **KAIST** - Department of Electrical Engineering (Mar. 2018 - )
 - **Addinedu** - ROS2 & Autonomous Driving Robot Developer Training Program, 9th (Feb. 2025 - Aug. 2025)
     
 ### 👨‍💻 **Focus Areas**
