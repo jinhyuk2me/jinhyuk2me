@@ -10,8 +10,9 @@
 ## 🚀 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRMF-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLAM-00897B?style=for-the-badge&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nav2-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
