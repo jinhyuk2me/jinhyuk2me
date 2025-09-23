@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/OpenRMF-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLAM-00897B?style=for-the-badge&logo=mapbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nav2-1565C0?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MoveIt-0A58F7?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
 ---
