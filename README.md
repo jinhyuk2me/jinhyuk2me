@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLAM-00897B?style=for-the-badge&logo=mapbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-4A90E2?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MoveIt-0A58F7?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenRMF-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
