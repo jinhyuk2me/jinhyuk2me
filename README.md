@@ -8,27 +8,27 @@
 
 ## 🚀 Tech Stack
 
-### 🧠 SLAM / Perception
+### SLAM / Perception
 <p align="left">
   <img src="https://img.shields.io/badge/SLAM-00897B?style=for-the-badge&logo=mapbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualSLAM-RTAB--Map-FF4081?style=for-the-badge&logo=mapbox&logoColor=white"/>
 </p>
 
-### 🤖 Robotics Frameworks
+### Robotics Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/MoveIt-0A58F7?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenRMF-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
-### 🏗️ Simulation
+### Simulation
 <p align="left">
   <img src="https://img.shields.io/badge/IsaacSim-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-4A90E2?style=for-the-badge&logo=atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/MuJoCo-FF5722?style=for-the-badge&logo=atom&logoColor=white"/>
 </p>
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
