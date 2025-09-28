@@ -11,7 +11,7 @@
 | Category              | Items                          |
 |-----------------------|--------------------------------|
 | SLAM / Perception     | SLAM, Visual SLAM (RTAB-Map)  |
-| Robotics Frameworks   | ROS2, MoveIt, OpenRMF         |
+| Robotics Frameworks   | ROS2, MoveIt, Nav2, OpenRMF         |
 | Simulation            | IsaacSim, Gazebo, MuJoCo      |
 | Programming Languages | C, C++, Python                |
 
