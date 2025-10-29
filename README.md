@@ -6,7 +6,7 @@
 ---
 
 ## 🎓 Education
-- **KAIST** — Department of Electrical Engineering (Mar. 2018 - )
+- **KAIST** — Department of Electrical Engineering (Mar. 2018 - Present, *currently on leave*)  
 - **Addinedu IT Academy** — ROS2 & Autonomous Driving Robot Developer Bootcamp (Feb. 2025 - Oct. 2025)
 
 ---
