@@ -1,7 +1,7 @@
 <!-- About -->
 
 ## 💼 Experience
-- **LK Robotics** — Robotics AI Research Engineer (Oct. 2025 - Present)
+- **LK Robotics** — Robotics AI Engineer (Oct. 2025 - Present)
 
 ---
 
