@@ -1,5 +1,9 @@
 <!-- About -->
 
+![Stats](https://github-readme-stats.vercel.app/api?username=jinhyuk2me)
+
+---
+
 ## 💼 Experience
 - **LK Robotics** — Physical AI Engineer (Oct. 2025 - Present)
 
@@ -14,3 +18,4 @@
 ## 📫 Contact
 - 🌐 **LinkedIn:** [linkedin.com/in/jinhyuk2me](https://www.linkedin.com/in/jinhyuk2me)  
 - 📧 **Email:** [jinhyuk2me@gmail.com](mailto:jinhyuk2me@gmail.com)  
+
