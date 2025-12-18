@@ -4,11 +4,6 @@
 
 ---
 
-## 💼 Experience
-- **LK Robotics** — Physical AI Engineer (Oct. 2025 - Present)
-
----
-
 ## 🎓 Education
 - **KAIST** - Department of Electrical Engineering (Mar. 2018 - Present)
 - **Addinedu IT Academy** - ROS2 & Autonomous Driving Robot Developer Bootcamp (Feb. 2025 - Oct. 2025)
