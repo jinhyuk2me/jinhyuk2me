@@ -1,7 +1,6 @@
 ## 🎓 Education
 - **KAIST** - Department of Electrical Engineering (Mar. 2018 - Present)
 
----
 
 ## 💼 Experience
 - **LK Robotics** — Robotics AI Engineer (Oct. 2025 - Present)
