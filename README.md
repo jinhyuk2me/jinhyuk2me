@@ -19,6 +19,7 @@
 
 ## 🎓 Education
 - **KAIST** - Department of Electrical Engineering (Mar. 2018 - Present)
+  - Double Major in School of Business and Technology Management (BTM)
 
 
 ## 💼 Experience
