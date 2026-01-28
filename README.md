@@ -3,7 +3,7 @@
 
 
 ## 💼 Experience
-- **Addinedu IT Academy** — ROS2 & AI Robotics Bootcamp (Feb. 2025 - Oct. 2025)
+- **Addinedu** — ROS2 & AI Robotics Bootcamp (Feb. 2025 - Oct. 2025)
 - **LK Robotics** — Robotics AI Engineer (Oct. 2025 - Present)
 
 ---
