@@ -4,7 +4,7 @@
 
 ## 💼 Experience
 - **Addinedu** — ROS2-based AI Robotics Program (Feb. 2025 - Oct. 2025)
-- **LK Robotics** — Robotics AI Engineer (Oct. 2025 - Present)
+- **LK ROBOTICS** — Robotics AI Engineer (Oct. 2025 - Present)
 
 ---
 
