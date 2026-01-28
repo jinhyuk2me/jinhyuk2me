@@ -1,8 +1,20 @@
 <div align="center">
-  <img src="asset/ex1.gif" width="35%" />
-  <img src="asset/ex2.gif" width="11%" />
-  <img src="asset/ex3.gif" width="35%" />
-  <img src="asset/ex4.gif" width="17%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="asset/ex1.gif" height="180px"><br>
+      </td>
+      <td align="center">
+        <img src="asset/ex2.gif" height="180px"><br>
+      </td>
+      <td align="center">
+        <img src="asset/ex3.gif" height="180px"><br>
+      </td>
+      <td align="center">
+        <img src="asset/ex4.gif" height="180px"><br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎓 Education
