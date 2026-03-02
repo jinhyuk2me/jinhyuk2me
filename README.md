@@ -1,3 +1,7 @@
+### Just building something fun.
+
+---
+
 ## 🎓 Education
 - **KAIST** - Department of Electrical Engineering
   - Double Major in School of Business and Technology Management (BTM)
